@@ -41,7 +41,7 @@ class upload extends Sensor
 	
 }
 
-public class kkk
+public class potholedetection
 {
   public static void main(String[] args) throws Exception
   {
