@@ -1,0 +1,9 @@
+bad condition at: 7 020.5937N 078.9629E
+need immediate maintainance!: 9 540.5935N 178.9627E
+bad condition at: 6 540.5938N 178.9627E
+need immediate maintainance!: 8 542.5945N 178.9327E
+need immediate maintainance!: 9 541.5233N 178.9627E
+bad condition at: 6 540.5938N 178.9627E
+need immediate maintainance!: 9 540.5935N 178.9627E
+bad condition at: 6 540.5938N 178.9627E
+need immediate maintainance!: 8 542.5945N 178.9327E
